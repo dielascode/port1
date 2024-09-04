@@ -1,23 +1,23 @@
-## Project 1
-Description
+## HOSPITAL MANAGEMENT
+Sistem management untuk rumah sakit dengan tampilan sederhana berbasis website
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - DONE [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 2
-Description
+## Perpustakaan
+Sistem peminjaman buku di perpustakaan sentral SMK Negeri 6 Jember berbasis website
 - Tags: Category 2
 - Badges:
-  - Badge [blue]
+  - DONE [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 3
-Description
+## Bruno On Stage
+Aplikasi website penjualan tiket konser Bruno Mars Live In Jakarta
 - Tags: Category 3
 - Badges:
-  - Badge [blue]
+  - DONE [blue]
 - Buttons:
   - Link [https://example.com]

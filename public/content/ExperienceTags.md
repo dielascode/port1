@@ -1,3 +1,3 @@
-Category 1
-Category 2
-Category 3
+Elementary School
+Junior High School
+Vocational High School

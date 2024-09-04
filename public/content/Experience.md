@@ -1,7 +1,7 @@
 ## Company 1
-- *Role* | Jan'23 - Feb'23
+- *Participant* | Jan'23 - Feb'23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 1
+- Tags: Elementary School
 - Badges:
   - Badge [blue]
 - List Items:
@@ -9,21 +9,28 @@
   - Point 2
 
 ## Company 2
-- *Role* | Feb'23 - Mar'23
+- *Participant* | Feb'23 - Mar'23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 2
+- Tags: Junior High School
 - Badges:
   - Badge [blue]
 - List Items:
   - Point 1
   - Point 2
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
+## EXPO PEKAN ILMIAH MAHASISWA 2024
+- *Participant* | 20 July 23 - 1 Sept 23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 3
+- Tags: Vocational High School
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Passed the final round on May 25 2024, with a position in the top three.
+  - Won 2nd place at national level in the field of web programming
+
+## VOCOFEST UGM 2024
+- *Participant* | 3 May 23
+- ![logo512](../assets/logo512.png)
+- Tags: Vocational High School
+- Badges:
+  - Badge [blue]
