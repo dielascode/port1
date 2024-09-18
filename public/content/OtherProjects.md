@@ -1,5 +1,5 @@
 ## HOSPITAL MANAGEMENT
-Sistem management untuk rumah sakit dengan tampilan sederhana berbasis website
+A hospital management system with a simple web-based interface.
 - Tags: Category 1
 - Badges:
   - DONE [blue]
@@ -7,7 +7,7 @@ Sistem management untuk rumah sakit dengan tampilan sederhana berbasis website
   - Link [https://example.com]
 
 ## Perpustakaan
-Sistem peminjaman buku di perpustakaan sentral SMK Negeri 6 Jember berbasis website
+The book borrowing system at the Central Library of SMK Negeri 6 Jember is website-based.
 - Tags: Category 2
 - Badges:
   - DONE [blue]
@@ -15,7 +15,7 @@ Sistem peminjaman buku di perpustakaan sentral SMK Negeri 6 Jember berbasis webs
   - Link [https://example.com]
 
 ## Bruno On Stage
-Aplikasi website penjualan tiket konser Bruno Mars Live In Jakarta
+Website application for selling tickets to Bruno Mars Live in Jakarta concert.
 - Tags: Category 3
 - Badges:
   - DONE [blue]
