@@ -4,7 +4,7 @@ A hospital management system with a simple web-based interface.
 - Badges:
   - DONE [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/dielascode]
 
 ## Perpustakaan
 The book borrowing system at the Central Library of SMK Negeri 6 Jember is website-based.
@@ -12,7 +12,7 @@ The book borrowing system at the Central Library of SMK Negeri 6 Jember is websi
 - Badges:
   - DONE [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/dielascode]
 
 ## Bruno On Stage
 Website application for selling tickets to Bruno Mars Live in Jakarta concert.
@@ -20,4 +20,4 @@ Website application for selling tickets to Bruno Mars Live in Jakarta concert.
 - Badges:
   - DONE [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/dielascode]
