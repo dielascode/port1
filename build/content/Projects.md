@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## TIMI-TeachMe
 Timi-TeachMe is an application designed for efficient task submission and management. It simplifies the process of uploading and organizing assignments, providing both students and teachers with an easy-to-use platform. 
 - ![600x200](assets/timi.png)
@@ -24,3 +25,31 @@ AISIX is an AI chatbot based on WhatsApp that is compatible with all devices for
   - ON PROCESS [red]
 - Buttons:
   - Link [https://github.com/dkjnna/aisix]
+=======
+## Project A
+Description
+- ![600x200](https://via.placeholder.com/600x200)
+- Tags: Category 1
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://example.com]
+
+## Project B
+Description
+- ![600x200](https://via.placeholder.com/600x200)
+- Tags: Category 2
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://example.com]
+
+## Project C
+Description
+- ![600x200](https://via.placeholder.com/600x200)
+- Tags: Category 3
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://example.com]
+>>>>>>> ecb01ed0d9ddd9aa37e1909b59e8fdc2a02cec6a

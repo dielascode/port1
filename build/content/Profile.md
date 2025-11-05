@@ -2,6 +2,7 @@
 - Portable Portfolio
 
 ## Header
+<<<<<<< HEAD
 - Hi, my name is Dila. 
 - I'm a FullStack Developer.
 - I'm a skilled FullStack Developer proficient in developing applications from frontend to backend.
@@ -16,3 +17,20 @@ Hello, I'm Farid Fadilatul Karimah, but you can call me Dila or Je, which are my
 
 ## Logo
 - DIELJE
+=======
+- Hi, my name is Eldora. 
+- I'm a software engineer.
+- Short Description Here.
+
+## About
+Write your "About" section here.
+
+## Contact
+Write your "Contact" section here.
+- LinkedIn: https://linkedin.com/in/username
+- GitHub: https://github.com/username
+- Email: username@gmail.com
+
+## Logo
+- EB
+>>>>>>> ecb01ed0d9ddd9aa37e1909b59e8fdc2a02cec6a
